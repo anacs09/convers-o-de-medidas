@@ -1,6 +1,6 @@
 a= float(input( "escolha o numero que quer converte:  "))
 #segundo
-print('''informe a medida que o numero escolhido esta:  
+print(''' escolha um dos números informando a medida que o numero escolhido esta:  
 [1] esta em km
 [2] esta em cm
 [3] esta em metros
@@ -9,7 +9,7 @@ print('''informe a medida que o numero escolhido esta:
 [6] esta em pes''')
 b=float(input("\n Sua opcão:  "))
 # terceiro
-print(''' escolha para qual medida quer converter
+print(''' escolha um dos números que indicara para qual medida quer converter
 [1] converter para km
 [2] converter para cm
 [3] conversao para metros 
