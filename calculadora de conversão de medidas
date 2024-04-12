@@ -1,6 +1,6 @@
 a= float(input( "escolha o numero que quer converte:  "))
 #segundo
-print(''' escolha um dos números informando a medida que o numero escolhido esta:  
+print(''' escolha um dos números, informando a medida que o numero escolhido esta:  
 [1] esta em km
 [2] esta em cm
 [3] esta em metros
